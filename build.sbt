@@ -3,7 +3,7 @@ import com.typesafe.sbt.SbtMultiJvm.MultiJvmKeys.MultiJvm
 
 organization := "com.sclasen"
 name := "akka-zk-cluster-seed"
-version := "0.1.11-SNAPSHOT"
+version := "0.1.11.0-SNAPSHOT"
 
 scalaVersion := "2.12.10"
 
